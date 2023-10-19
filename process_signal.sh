@@ -19,6 +19,10 @@ case "$1" in
         echo "Sending the SIGTERM to $2"
         kill -SIGTERM $2
         ;;
+    9)
+        echo "Sending the SIGKILL to $2"
+        kill -SIGKILL $2
+        ;;
     *)
         echo "Signal number $1 will not be delivered!"
         ;;
