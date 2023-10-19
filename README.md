@@ -1,4 +1,4 @@
 # stuff
 
-Nothing special, just bash scripting practice.
+Nothing special, just shell scripting practice.
 Also getting used to git.
