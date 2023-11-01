@@ -4,7 +4,7 @@ select COUNTRY in Germany Spain USA "United Kingdom" Quit
 
 do
     case $REPLY in
-    1) 
+    1)
         echo "You speak German."
         ;;
     2)
