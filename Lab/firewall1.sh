@@ -1,5 +1,6 @@
 #!/bin/bash
 
+iptables -F
 # Drops all incoming traffic to port 22 (SSH)
 iptables -A INPUT -p tcp  --dport 22 -j DROP
 
