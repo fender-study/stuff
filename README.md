@@ -1,4 +1,4 @@
 # stuff
 
-Nothing special, just shell scripting practice.
+Nothing special, just shell and python scripting practice.
 Also getting used to git.
