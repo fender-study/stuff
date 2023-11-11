@@ -1,6 +1,6 @@
 #!/bin/bash
 
-iptables -F INPUT
+iptables -F FORWARD
 
 PERMITTED_MACS="08:01:25:04:61:21 08:00:53:04:65:22"
 
